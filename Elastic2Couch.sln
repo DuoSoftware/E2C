@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastic2Couch", "Elastic2Couch\Elastic2Couch.csproj", "{5B340E34-F6C5-444F-92E9-D80B1E5A76F7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfiis:8080/tfs/duosubscriber
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Elastic2Couch\\Elastic2Couch.csproj
+		SccProjectName1 = Elastic2Couch
+		SccLocalPath1 = Elastic2Couch
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B340E34-F6C5-444F-92E9-D80B1E5A76F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B340E34-F6C5-444F-92E9-D80B1E5A76F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B340E34-F6C5-444F-92E9-D80B1E5A76F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B340E34-F6C5-444F-92E9-D80B1E5A76F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
